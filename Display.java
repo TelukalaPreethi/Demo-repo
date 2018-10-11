@@ -3,11 +3,11 @@ class Display {
   int a;
   display(int x){
     System.out.println(x);
-    System.out.println("This is display function");
   }
   public static void main(String args[]){
     Demo d=new Demo();
     d.a=20;
+    System.out.println("This is display function");
     d.display(d.a);
   }
 }
