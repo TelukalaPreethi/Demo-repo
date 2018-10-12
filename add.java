@@ -12,6 +12,5 @@ class Add{
 		System.out.println(x);
 		System.out.println("End of program add.java function");
 		System.out.println("testing");
-		
  	}
 }
